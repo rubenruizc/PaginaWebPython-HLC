@@ -1,5 +1,5 @@
 import reflex as rx
-from PaginaWeb.componentes.link_button import link_button
+from PaginaWeb.components.link_button import link_button
 
 
 def links() -> rx.Component:
